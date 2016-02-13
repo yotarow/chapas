@@ -1,0 +1,10 @@
+ChaPAS: Yet Another Japanese Predicate Argument Structure Analyzer
+                          Version 0.742
+          https://sites.google.com/site/yotarow/chapas
+
+* INTRODUCTION
+ChaPAS is a yet another Japanese Predicate Argument Structure Analyzer
+written in Java. Please refer to the web site for more information.
+
+* COPYRIGHT AND LICENSE INFORMATION
+This program is distributed under the modified BSD license. 

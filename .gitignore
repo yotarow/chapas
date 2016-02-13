@@ -1,0 +1,13 @@
+*~
+data
+*.sh
+outdir*
+*log*
+*hoge*
+chapas-0.*
+models
+resources
+NCV
+dist
+
+
